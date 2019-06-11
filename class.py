@@ -1,6 +1,7 @@
 class Student():
     Name="Avinandan"                                                         #property
     Age=18
+    
 X=Student()                                                                   #object creation
 print(X.Name,X.Age)
 Y=Student()
